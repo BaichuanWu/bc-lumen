@@ -1,0 +1,1 @@
+export { default as DashboardPage, type NavigationItem } from "./dashboard";
